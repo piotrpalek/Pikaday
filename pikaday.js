@@ -837,16 +837,6 @@
             this._o.maxDate = value;
         },
 
-        setStartRange: function(value)
-        {
-            this._o.startRange = value;
-        },
-
-        setEndRange: function(value)
-        {
-            this._o.endRange = value;
-        },
-
         /**
          * refresh the HTML
          */
